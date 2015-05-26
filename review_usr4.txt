@@ -6,3 +6,4 @@
 165011|Developpement logiciel|usr4: Deux matières séparées plutôt qu'une matière avec deux profs (et aucun lien !)
 165426|Technique de communication|usr4: Les listes aussi ! C'est important les listes !
 165516|Developpement logiciel|usr4: *Dernier avertissement, vous allez être bannis du chat !*
+165712|Gestion Financiere|usr4: Jeu de la biscotte ?
