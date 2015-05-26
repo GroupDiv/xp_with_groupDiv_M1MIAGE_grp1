@@ -19,3 +19,4 @@
 165728|Gestion Financiere|usr5: et quelqu'un veut faire une coloc ? je chercher une coloc !
 165805|Nouvelle Pratique Informatique|usr5: mais pourquoi on seloigne ?
 165816|Nouvelle Pratique Informatique|usr5: vous avez compris comment ça marche ?
+165853|Nouvelle Pratique Informatique|usr5: yeeee
