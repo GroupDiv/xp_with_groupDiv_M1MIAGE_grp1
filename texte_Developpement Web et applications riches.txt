@@ -14,5 +14,6 @@ Datastore.
 
 
 Ameliorations a apporter:
-Plus de TP,
+Plus de TP, et des TP plus participatifs pour les élèves.
+Il faudrait faire en sorte de ralentir le rythme des TP pour que tout le monde puisse suivre et développer correctement ses compétences (surtout dans l'optique de réussir le projet)
 Plus (+) de slides en français.
