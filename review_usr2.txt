@@ -9,4 +9,3 @@
 165552|Developpement logiciel|usr2: /!\ Ce n'est pas un chat!
 165615|Gestion Financiere|usr2: Oui, biscotte citron?
 165732|Nouvelle Pratique Informatique|usr2: usr2, célib?
-165755|Gestion Financiere|usr2: Mmm c'est pas forcément le moment..
