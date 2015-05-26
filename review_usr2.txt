@@ -1,2 +1,3 @@
 164717|Technique de communication|usr2: attention aux fautes d'orthographe!
 164902|Developpement logiciel|usr2: Ameliorations OK
+165200|Gestion Financiere|usr2: Pas d'accord avec le user 4
