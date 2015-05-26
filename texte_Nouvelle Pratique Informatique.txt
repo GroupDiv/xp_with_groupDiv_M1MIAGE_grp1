@@ -11,4 +11,4 @@ SPARQL, Open Data, RDF
 
 
 Ameliorations a apporter:
-Cours mieux construits, slides à changer illisibles
+Cours mieux construit, slides à changer (illisibles pour réviser)
