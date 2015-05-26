@@ -6,3 +6,4 @@
 164855|Technique de communication|usr5: faire le boulot a la place des profs n'est pas non plus quelque chose que l'on devrait faire. rediger des documents pour rediger les rapports de stage a destination des autres etudiants ne fait pas parti de notre formation
 164934|Technique de communication|usr5: enfin expression oral ... c'est la prof qui fait le l'oral oui !
 165010|Gestion Financiere|usr5: on va se calmer la !
+165119|Nouvelle Pratique Informatique|usr5: programme qui ne correspond pas vraiment aux nouvelles pratiques en entreprise ...
