@@ -1,1 +1,2 @@
 164717|Technique de communication|usr2: attention aux fautes d'orthographe!
+164902|Developpement logiciel|usr2: Ameliorations OK
