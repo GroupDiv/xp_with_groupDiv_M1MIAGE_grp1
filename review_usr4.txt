@@ -3,3 +3,4 @@
 164734|Gestion Financiere|usr4: Mieux séparer le cours et le TD, tout est "mélangé"
 164826|Technique de communication|usr4: Amélioration : un seul VRAI module en L3 et on en parle plus ...
 164929|Gestion Financiere|usr4: C'toi qui est crétin
+165011|Developpement logiciel|usr4: Deux matières séparées plutôt qu'une matière avec deux profs (et aucun lien !)
