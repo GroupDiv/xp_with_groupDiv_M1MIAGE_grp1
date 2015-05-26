@@ -1,0 +1,14 @@
+Pre-requis:
+Requêtes, cloud, interaction avec des données
+
+
+Competences acquises:
+SPARQL, RDF
+
+
+Programme:
+SPARQL, Open Data, RDF
+
+
+Ameliorations a apporter:
+Cours mieux construits, slides à changer illisibles
