@@ -4,3 +4,4 @@
 164826|Technique de communication|usr4: Amélioration : un seul VRAI module en L3 et on en parle plus ...
 164929|Gestion Financiere|usr4: C'toi qui est crétin
 165011|Developpement logiciel|usr4: Deux matières séparées plutôt qu'une matière avec deux profs (et aucun lien !)
+165426|Technique de communication|usr4: Les listes aussi ! C'est important les listes !
