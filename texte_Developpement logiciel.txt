@@ -1,0 +1,12 @@
+Pre-requis:
+connaissances en UML, en developpement logiciel (UE du semestre précédent)
+
+Competences acquises: 
+developpement logiciel (bonnes pratiques), langage de spécification (Z), 
+utilisation de Java pour le projet et de Maven, competences en tests unitaires, OCL
+
+Programme:
+UML, Z, bonnes pratiques de developpement logiciel
+
+Ameliorations a apporter:
+plus de concertation entre les profs pour qu'il y ait un reel lien entre les deux parties du cours, meilleure coherence entre les deux projets, et des projets moins lourds ou un coef plus eleve, mais la charge de travail est dispropotionnee. aussi un meilleur accompagnement pendant les TP.

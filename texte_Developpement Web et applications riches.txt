@@ -1,0 +1,18 @@
+Pre-requis:
+Connaissances web (Langages web, différents types d'applications)
+Connaissances en base de données (Langages relationnel et base de données)
+
+
+Competences acquises:
+Cf programme
+
+
+Programme:
+Servlet/JSP, Services REST et application web avec Javascript (et angular).
+Datastore.
+
+
+
+Ameliorations a apporter:
+Plus de TP,
+Plus (+) de slides en français.
