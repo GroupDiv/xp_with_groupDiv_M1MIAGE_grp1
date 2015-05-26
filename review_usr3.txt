@@ -4,3 +4,4 @@
 165441|Gestion Financiere|usr3: D'accord avec le user 3
 165514|Developpement logiciel|usr3: user2 /ban /kick /quit
 165615|Nouvelle Pratique Informatique|usr3: user5 A.S.V ?
+165752|Developpement logiciel|usr3: Allez @+, je vais réviser !  biz
