@@ -3,3 +3,4 @@
 164540|Developpement Web et applications riches|usr5: ameliorations : des TP qui viennent plus tot, parce que deux semaines avant le rendu, ca ne sert a rien
 164701|Gestion Financiere|usr5: le module plus tôt aiderait pour le module de jeu d'entreprise
 164736|Gestion Financiere|usr5: les deux CC a un jour d'intervalle les deux derniers jours de cours, c'est cretin
+164855|Technique de communication|usr5: faire le boulot a la place des profs n'est pas non plus quelque chose que l'on devrait faire. rediger des documents pour rediger les rapports de stage a destination des autres etudiants ne fait pas parti de notre formation
