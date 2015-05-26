@@ -4,3 +4,4 @@
 165217|Gestion Financiere|usr2: Mais ok avec le user 5 pour l'espacement des CC
 165329|Technique de communication|usr2: Ps : parler pendant 2h40 des points virgule et des tabulations, est-ce vraiment primordial?
 165427|Developpement logiciel|usr2: TG usr3
+165441|Technique de communication|usr2: :)
