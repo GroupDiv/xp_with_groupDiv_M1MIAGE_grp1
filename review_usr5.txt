@@ -9,3 +9,4 @@
 165119|Nouvelle Pratique Informatique|usr5: programme qui ne correspond pas vraiment aux nouvelles pratiques en entreprise ...
 165215|Developpement Web et applications riches|usr5: un sujet où on est un peu plus guidé, et des le depart. et un sujet moins bancale aussi.
 165411|Nouvelle Pratique Informatique|usr5: le prof c'est desmontils
+165423|Nouvelle Pratique Informatique|usr5: t'es jamais venu en cours usr3 ?!
