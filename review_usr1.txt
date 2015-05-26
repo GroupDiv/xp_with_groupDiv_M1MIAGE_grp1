@@ -2,3 +2,4 @@
 165006|Developpement Web et applications riches|usr1: des tps et des cours où on sert à quelque chose !
 165339|Developpement logiciel|usr1: Séparer le module en deux modules différents ou alors les réunir. Beaucoup trop de travail à fournir pour un seul modul avec un si petit coefficient
 165424|Nouvelle Pratique Informatique|usr1: Pas forcement utile de faire un cours s'il n'y a pas de contenu pour construire le module.
+165517|Developpement logiciel|usr1: D'accord avec le user2 !!
