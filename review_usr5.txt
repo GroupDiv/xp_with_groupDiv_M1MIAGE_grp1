@@ -17,3 +17,4 @@
 165614|Nouvelle Pratique Informatique|usr5: quelqu'un veut un gouter apres ?
 165712|Gestion Financiere|usr5: aaaaaaah biscotte citron !
 165728|Gestion Financiere|usr5: et quelqu'un veut faire une coloc ? je chercher une coloc !
+165805|Nouvelle Pratique Informatique|usr5: mais pourquoi on seloigne ?
