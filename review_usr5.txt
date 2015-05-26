@@ -7,3 +7,4 @@
 164934|Technique de communication|usr5: enfin expression oral ... c'est la prof qui fait le l'oral oui !
 165010|Gestion Financiere|usr5: on va se calmer la !
 165119|Nouvelle Pratique Informatique|usr5: programme qui ne correspond pas vraiment aux nouvelles pratiques en entreprise ...
+165215|Developpement Web et applications riches|usr5: un sujet où on est un peu plus guidé, et des le depart. et un sujet moins bancale aussi.
