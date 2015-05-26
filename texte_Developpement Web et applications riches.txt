@@ -15,4 +15,4 @@ Datastore.
 
 Ameliorations a apporter:
 Plus de TP,
-Plus de slides en français.
+Plus (+) de slides en français.
