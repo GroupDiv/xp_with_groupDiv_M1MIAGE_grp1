@@ -1,3 +1,5 @@
 164255|Nouvelle Pratique Informatique|usr5: competences acquises : owl
 164412|Technique de communication|usr5: on a pas fait de CV
 164540|Developpement Web et applications riches|usr5: ameliorations : des TP qui viennent plus tot, parce que deux semaines avant le rendu, ca ne sert a rien
+164701|Gestion Financiere|usr5: le module plus tôt aiderait pour le module de jeu d'entreprise
+164736|Gestion Financiere|usr5: les deux CC a un jour d'intervalle les deux derniers jours de cours, c'est cretin
